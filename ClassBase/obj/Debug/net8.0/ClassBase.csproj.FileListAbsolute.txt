@@ -1,0 +1,15 @@
+D:\Code gym\GU2311R1\GU1-W06\GU1-W06\ClassBase\obj\Debug\net8.0\ClassBase.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code gym\GU2311R1\GU1-W06\GU1-W06\ClassBase\obj\Debug\net8.0\ClassBase.AssemblyInfoInputs.cache
+D:\Code gym\GU2311R1\GU1-W06\GU1-W06\ClassBase\obj\Debug\net8.0\ClassBase.AssemblyInfo.cs
+D:\Code gym\GU2311R1\GU1-W06\GU1-W06\ClassBase\obj\Debug\net8.0\ClassBase.csproj.CoreCompileInputs.cache
+D:\Code gym\GU2311R1\GU1-W06\GU1-W06\ClassBase\obj\Debug\net8.0\ClassBase.sourcelink.json
+D:\Code gym\GU2311R1\GU1-W06\GU1-W06\ClassBase\bin\Debug\net8.0\ClassBase.exe
+D:\Code gym\GU2311R1\GU1-W06\GU1-W06\ClassBase\bin\Debug\net8.0\ClassBase.deps.json
+D:\Code gym\GU2311R1\GU1-W06\GU1-W06\ClassBase\bin\Debug\net8.0\ClassBase.runtimeconfig.json
+D:\Code gym\GU2311R1\GU1-W06\GU1-W06\ClassBase\bin\Debug\net8.0\ClassBase.dll
+D:\Code gym\GU2311R1\GU1-W06\GU1-W06\ClassBase\bin\Debug\net8.0\ClassBase.pdb
+D:\Code gym\GU2311R1\GU1-W06\GU1-W06\ClassBase\obj\Debug\net8.0\ClassBase.dll
+D:\Code gym\GU2311R1\GU1-W06\GU1-W06\ClassBase\obj\Debug\net8.0\refint\ClassBase.dll
+D:\Code gym\GU2311R1\GU1-W06\GU1-W06\ClassBase\obj\Debug\net8.0\ClassBase.pdb
+D:\Code gym\GU2311R1\GU1-W06\GU1-W06\ClassBase\obj\Debug\net8.0\ClassBase.genruntimeconfig.cache
+D:\Code gym\GU2311R1\GU1-W06\GU1-W06\ClassBase\obj\Debug\net8.0\ref\ClassBase.dll

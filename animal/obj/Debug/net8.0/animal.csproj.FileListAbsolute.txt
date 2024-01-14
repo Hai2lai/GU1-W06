@@ -1,0 +1,15 @@
+D:\Code gym\GU2311R1\GU1-W06\GU1-W06\animal\bin\Debug\net8.0\animal.exe
+D:\Code gym\GU2311R1\GU1-W06\GU1-W06\animal\bin\Debug\net8.0\animal.deps.json
+D:\Code gym\GU2311R1\GU1-W06\GU1-W06\animal\bin\Debug\net8.0\animal.runtimeconfig.json
+D:\Code gym\GU2311R1\GU1-W06\GU1-W06\animal\bin\Debug\net8.0\animal.dll
+D:\Code gym\GU2311R1\GU1-W06\GU1-W06\animal\bin\Debug\net8.0\animal.pdb
+D:\Code gym\GU2311R1\GU1-W06\GU1-W06\animal\obj\Debug\net8.0\animal.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code gym\GU2311R1\GU1-W06\GU1-W06\animal\obj\Debug\net8.0\animal.AssemblyInfoInputs.cache
+D:\Code gym\GU2311R1\GU1-W06\GU1-W06\animal\obj\Debug\net8.0\animal.AssemblyInfo.cs
+D:\Code gym\GU2311R1\GU1-W06\GU1-W06\animal\obj\Debug\net8.0\animal.csproj.CoreCompileInputs.cache
+D:\Code gym\GU2311R1\GU1-W06\GU1-W06\animal\obj\Debug\net8.0\animal.sourcelink.json
+D:\Code gym\GU2311R1\GU1-W06\GU1-W06\animal\obj\Debug\net8.0\animal.dll
+D:\Code gym\GU2311R1\GU1-W06\GU1-W06\animal\obj\Debug\net8.0\refint\animal.dll
+D:\Code gym\GU2311R1\GU1-W06\GU1-W06\animal\obj\Debug\net8.0\animal.pdb
+D:\Code gym\GU2311R1\GU1-W06\GU1-W06\animal\obj\Debug\net8.0\animal.genruntimeconfig.cache
+D:\Code gym\GU2311R1\GU1-W06\GU1-W06\animal\obj\Debug\net8.0\ref\animal.dll

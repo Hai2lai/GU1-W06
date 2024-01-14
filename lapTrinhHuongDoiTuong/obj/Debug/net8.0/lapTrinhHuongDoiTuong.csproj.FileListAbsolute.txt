@@ -1,0 +1,15 @@
+D:\Code gym\GU2311R1\GU1-W06\GU1-W06\lapTrinhHuongDoiTuong\bin\Debug\net8.0\lapTrinhHuongDoiTuong.exe
+D:\Code gym\GU2311R1\GU1-W06\GU1-W06\lapTrinhHuongDoiTuong\bin\Debug\net8.0\lapTrinhHuongDoiTuong.deps.json
+D:\Code gym\GU2311R1\GU1-W06\GU1-W06\lapTrinhHuongDoiTuong\bin\Debug\net8.0\lapTrinhHuongDoiTuong.runtimeconfig.json
+D:\Code gym\GU2311R1\GU1-W06\GU1-W06\lapTrinhHuongDoiTuong\bin\Debug\net8.0\lapTrinhHuongDoiTuong.dll
+D:\Code gym\GU2311R1\GU1-W06\GU1-W06\lapTrinhHuongDoiTuong\bin\Debug\net8.0\lapTrinhHuongDoiTuong.pdb
+D:\Code gym\GU2311R1\GU1-W06\GU1-W06\lapTrinhHuongDoiTuong\obj\Debug\net8.0\lapTrinhHuongDoiTuong.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code gym\GU2311R1\GU1-W06\GU1-W06\lapTrinhHuongDoiTuong\obj\Debug\net8.0\lapTrinhHuongDoiTuong.AssemblyInfoInputs.cache
+D:\Code gym\GU2311R1\GU1-W06\GU1-W06\lapTrinhHuongDoiTuong\obj\Debug\net8.0\lapTrinhHuongDoiTuong.AssemblyInfo.cs
+D:\Code gym\GU2311R1\GU1-W06\GU1-W06\lapTrinhHuongDoiTuong\obj\Debug\net8.0\lapTrinhHuongDoiTuong.csproj.CoreCompileInputs.cache
+D:\Code gym\GU2311R1\GU1-W06\GU1-W06\lapTrinhHuongDoiTuong\obj\Debug\net8.0\lapTrinhHuongDoiTuong.sourcelink.json
+D:\Code gym\GU2311R1\GU1-W06\GU1-W06\lapTrinhHuongDoiTuong\obj\Debug\net8.0\lapTrinhHuongDoiTuong.dll
+D:\Code gym\GU2311R1\GU1-W06\GU1-W06\lapTrinhHuongDoiTuong\obj\Debug\net8.0\refint\lapTrinhHuongDoiTuong.dll
+D:\Code gym\GU2311R1\GU1-W06\GU1-W06\lapTrinhHuongDoiTuong\obj\Debug\net8.0\lapTrinhHuongDoiTuong.pdb
+D:\Code gym\GU2311R1\GU1-W06\GU1-W06\lapTrinhHuongDoiTuong\obj\Debug\net8.0\lapTrinhHuongDoiTuong.genruntimeconfig.cache
+D:\Code gym\GU2311R1\GU1-W06\GU1-W06\lapTrinhHuongDoiTuong\obj\Debug\net8.0\ref\lapTrinhHuongDoiTuong.dll

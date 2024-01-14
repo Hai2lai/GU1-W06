@@ -1,0 +1,15 @@
+D:\Code gym\GU2311R1\GU1-W06\GU1-W06\Rectangle\bin\Debug\net8.0\Rectangle.exe
+D:\Code gym\GU2311R1\GU1-W06\GU1-W06\Rectangle\bin\Debug\net8.0\Rectangle.deps.json
+D:\Code gym\GU2311R1\GU1-W06\GU1-W06\Rectangle\bin\Debug\net8.0\Rectangle.runtimeconfig.json
+D:\Code gym\GU2311R1\GU1-W06\GU1-W06\Rectangle\bin\Debug\net8.0\Rectangle.dll
+D:\Code gym\GU2311R1\GU1-W06\GU1-W06\Rectangle\bin\Debug\net8.0\Rectangle.pdb
+D:\Code gym\GU2311R1\GU1-W06\GU1-W06\Rectangle\obj\Debug\net8.0\Rectangle.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code gym\GU2311R1\GU1-W06\GU1-W06\Rectangle\obj\Debug\net8.0\Rectangle.AssemblyInfoInputs.cache
+D:\Code gym\GU2311R1\GU1-W06\GU1-W06\Rectangle\obj\Debug\net8.0\Rectangle.AssemblyInfo.cs
+D:\Code gym\GU2311R1\GU1-W06\GU1-W06\Rectangle\obj\Debug\net8.0\Rectangle.csproj.CoreCompileInputs.cache
+D:\Code gym\GU2311R1\GU1-W06\GU1-W06\Rectangle\obj\Debug\net8.0\Rectangle.sourcelink.json
+D:\Code gym\GU2311R1\GU1-W06\GU1-W06\Rectangle\obj\Debug\net8.0\Rectangle.dll
+D:\Code gym\GU2311R1\GU1-W06\GU1-W06\Rectangle\obj\Debug\net8.0\refint\Rectangle.dll
+D:\Code gym\GU2311R1\GU1-W06\GU1-W06\Rectangle\obj\Debug\net8.0\Rectangle.pdb
+D:\Code gym\GU2311R1\GU1-W06\GU1-W06\Rectangle\obj\Debug\net8.0\Rectangle.genruntimeconfig.cache
+D:\Code gym\GU2311R1\GU1-W06\GU1-W06\Rectangle\obj\Debug\net8.0\ref\Rectangle.dll

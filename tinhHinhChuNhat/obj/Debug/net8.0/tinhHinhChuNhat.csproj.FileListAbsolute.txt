@@ -1,0 +1,15 @@
+D:\Code gym\GU2311R1\GU1-W06\GU1-W06\tinhHinhChuNhat\bin\Debug\net8.0\tinhHinhChuNhat.exe
+D:\Code gym\GU2311R1\GU1-W06\GU1-W06\tinhHinhChuNhat\bin\Debug\net8.0\tinhHinhChuNhat.deps.json
+D:\Code gym\GU2311R1\GU1-W06\GU1-W06\tinhHinhChuNhat\bin\Debug\net8.0\tinhHinhChuNhat.runtimeconfig.json
+D:\Code gym\GU2311R1\GU1-W06\GU1-W06\tinhHinhChuNhat\bin\Debug\net8.0\tinhHinhChuNhat.dll
+D:\Code gym\GU2311R1\GU1-W06\GU1-W06\tinhHinhChuNhat\bin\Debug\net8.0\tinhHinhChuNhat.pdb
+D:\Code gym\GU2311R1\GU1-W06\GU1-W06\tinhHinhChuNhat\obj\Debug\net8.0\tinhHinhChuNhat.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code gym\GU2311R1\GU1-W06\GU1-W06\tinhHinhChuNhat\obj\Debug\net8.0\tinhHinhChuNhat.AssemblyInfoInputs.cache
+D:\Code gym\GU2311R1\GU1-W06\GU1-W06\tinhHinhChuNhat\obj\Debug\net8.0\tinhHinhChuNhat.AssemblyInfo.cs
+D:\Code gym\GU2311R1\GU1-W06\GU1-W06\tinhHinhChuNhat\obj\Debug\net8.0\tinhHinhChuNhat.csproj.CoreCompileInputs.cache
+D:\Code gym\GU2311R1\GU1-W06\GU1-W06\tinhHinhChuNhat\obj\Debug\net8.0\tinhHinhChuNhat.sourcelink.json
+D:\Code gym\GU2311R1\GU1-W06\GU1-W06\tinhHinhChuNhat\obj\Debug\net8.0\tinhHinhChuNhat.dll
+D:\Code gym\GU2311R1\GU1-W06\GU1-W06\tinhHinhChuNhat\obj\Debug\net8.0\refint\tinhHinhChuNhat.dll
+D:\Code gym\GU2311R1\GU1-W06\GU1-W06\tinhHinhChuNhat\obj\Debug\net8.0\tinhHinhChuNhat.pdb
+D:\Code gym\GU2311R1\GU1-W06\GU1-W06\tinhHinhChuNhat\obj\Debug\net8.0\tinhHinhChuNhat.genruntimeconfig.cache
+D:\Code gym\GU2311R1\GU1-W06\GU1-W06\tinhHinhChuNhat\obj\Debug\net8.0\ref\tinhHinhChuNhat.dll
